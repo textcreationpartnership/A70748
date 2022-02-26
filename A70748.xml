@@ -1,0 +1,410 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>May it please your Lordship, having formerly discourst amongst the crowd of arguments which have been vented since the knowledg of the peace; ...</title>
+            <author>Orme, Thomas, d. 1716.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70748</idno>
+            <idno type="STC">Wing O435A</idno>
+            <idno type="STC">ESTC R6411</idno>
+            <idno type="EEBO-CITATION">99834894</idno>
+            <idno type="PROQUEST">99834894</idno>
+            <idno type="VID">39523</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70748)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39523)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 724:23, 1766:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>May it please your Lordship, having formerly discourst amongst the crowd of arguments which have been vented since the knowledg of the peace; ...</title>
+                  <author>Orme, Thomas, d. 1716.</author>
+               </titleStmt>
+               <extent>26 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Tho. Orme.</note>
+                  <note>Title from opening words of text.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Item at 724:23 incorrectly labelled O436 in reel guide and on film.</note>
+                  <note>Reproductions of the originals in the Henry E. Huntington Library and Art Gallery and the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Standing army --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Military policy --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:39523:1" rendition="simple:additions"/>
+            <opener>
+               <salute>May it pleaſe your Lordſhip,</salute>
+            </opener>
+            <p>HAving formerly diſcourſt amongſt the Crowd of Ar<g ref="char:EOLhyphen"/>guments which have been vented ſince the knowledg of the Peace; whether was the more proper for the defence of it, a great number of the Diſciplin'd Forces, who courageouſly behaved themſelves during the War, and were as eminent Inſtruments as the Arm of Fleſh could be, for enforcing a Potent Prince whom all his Neighbours con<g ref="char:EOLhyphen"/>jectur'd that he aim'd at being Univerſal Monarch, which (God be prais'd) he now ſeems not to purſue; But whether he is ſo far to be truſted, as that we may ſafely part with moſt of theſe hardy and well Diſciplin'd Men, and relie wholly upon the Militia, who have formerly defended this Iſland as has been Hi<g ref="char:EOLhyphen"/>ſtorically ſet forth, is now the main matter to be conſider'd, and looks ſo <hi>Janus</hi> like, I know not which to admire, both Faces having excellent good Eyes; I am apt to think they will both look about them for their Honours, ſo that neither of them may be abſolutely laid aſide, nor do I apprehend that the Thinking Men (who have not been abroad nor in Arms) do conclude that the Militia can at preſent be ſo uſeful as to defend us, in caſe the Diſciplined Men be clearly Disbanded; and ſometimes Negli<g ref="char:EOLhyphen"/>gence and Nakedneſs encourages watchful Politicians to attempt thoſe things that they would not have thought on, whilſt they were apprehenſive of a reaſonable Guard; Nor do I apprehend moderate Men do think the Militia are fully uſeful, but ſeem to hope they may be made ſo; In ſhort, if you are near a Common, or many Neighbours whom you are to Fence from, if you per<g ref="char:EOLhyphen"/>mit your Gates to lye open, and are careleſs of your Fences, you will have little Hay to make, or none to carry away; So without queſtion the Diſciplin'd Force muſt be kept up, till the Militia is made uſeful; And how it will ever become ſo without new and more Laws for that purpoſe, and thoſe Laws put in practice, I
+<pb n="2" facs="tcp:39523:2"/>
+do not apprehend; Laws were talkt of laſt year and this, yet there's ſmall Appearance of them, and when we have them, and they are purſued with all Vigour imaginable, I do not apprehend how the Nation can be without the Number of the neceſſary force that's now in being<g ref="char:punc">▪</g> Perhaps as the Militia grows uſeful, they may be placed in other Quarters; But whether ſome Men that talk much of a Militia are in real earneſt, is ſomething doubt<g ref="char:EOLhyphen"/>ful, for at the ſame time they diſcourſe of her, they ſay ſhe is chargeable, and her Men are changeable, ſo do ſcruple or are doubtful, whether ſhe is materially Improveable; and our latter Kings have ſhew'd a ſort of Platonick Love to her, talk of her, ſee her ſometimes, Court her with a ſeeming cool Affection, and yet will not part with her for an hour, will not ſuffer any other to court her, nor will they abſolutely diſſolve her nor lay her to Sleep, yet will let her ofttimes drouze, which the com<g ref="char:EOLhyphen"/>mon People are not very well pleaſed with; For tho ſometimes they grumble at her as Burthenſom and Chargeable<g ref="char:punc">▪</g> yet they love her as they do <hi>Hopkins</hi> and <hi>Sternhold,</hi> becauſe they are pleaſed in having a little ſhare in the Government as they have in the Devotion; Therefore to come as near to the ſatisfaction of all Parties as my Capacity will bring me to, having ſaid for<g ref="char:EOLhyphen"/>merly I had ſome Obſervations (by employing my thoughts) which may perhaps tend to the making the Militia uſeful, I have drawn a ſmall Scheme, which compar'd with former Practices and Charges may happily, with ſomething leſs charge, make the Militia more uſeful, and when that appears, Additions will come on by Inclination; ſo that the preſent poſture of the Diſciplin'd Forces may be changed again into their former Station, and yet the ſame number kept up.</p>
+            <p>But at preſent, I confeſs, I do not ſee how either Perſons, Pay, or Numbers, or Stations, can be ſafely alter'd, till the Militia is made more uſeful<g ref="char:punc">▪</g> And that being an Affair I have aim'd at, I here humbly offer you the ſummary account of what has paſt and is now in being; and alſo what number of Men, what Sum for Pay, what enlargement of Time I hope will make the Mili<g ref="char:EOLhyphen"/>tia Uſeful; and yet keep within the bounds of the preſent Expence <hi>England</hi> and <hi>Wales</hi> have been accuſtomed and are ſtill liable unto, as will appear by theſe following particular Accounts of the Militia of all the Counties of <hi>England</hi> and <hi>Wales,</hi> according as the publick Prints, ſold in <hi>Westminiſter-Hall,</hi> ſay they are Retur<g ref="char:EOLhyphen"/>ned by the Deputy-Lieutenants of the ſeveral Counties; with a Computation of the cuſtomary Charge.</p>
+            <p>
+               <pb n="3" facs="tcp:39523:2"/>
+               <table>
+                  <row>
+                     <cell>Horſe Officers 450</cell>
+                     <cell>Total of Officers 2788</cell>
+                     <cell>Horſe Men 6386</cell>
+                     <cell rows="2">Total of Troopers and private Soldiers, 82003</cell>
+                  </row>
+                  <row>
+                     <cell>Foot Officers 2338</cell>
+                     <cell>Foot Men 75617</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Total of Horſe and Foot 84791.</cell>
+                     <cell>
+                        <hi>And allowing a</hi> 12th. <hi>part more, or 7000 Men for the 5 Counties which are Blank in the Print, makes the whole Number</hi> 91791, viz. <hi>Horſe about 7450, and Foot about</hi> 84391.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>For Troopers in the Militia, the Act ſays they ſhall be allowed <hi>2s. 6d.</hi> But as its practis'd in Drinking and Extravagancies its generally <hi>4s.</hi> if not <hi>5s per</hi> day; Compute at <hi>4s. per diem.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="3">Horſe Men (Officers Excluſive) 6386 comes to which at 14 days <hi>per Ann.</hi> amounts to</cell>
+                     <cell>l.</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row>
+                     <cell>1277</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>17880</cell>
+                     <cell>16</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>For Foot Soldiers in the Militia, the Act ſays they ſhall be allowed <hi>1s. per</hi> day, but generaly they have <hi>2s.</hi> or <hi>2s. 6d.</hi> or more, compute at 2s. <hi>per diem.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="3">Foot Men (Officers Excluſive) 75617 comes to which at 14 days <hi>per Ann.</hi> amounts to</cell>
+                     <cell>l.</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row>
+                     <cell>7561</cell>
+                     <cell>14</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>105863</cell>
+                     <cell>16</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Trophy Mony which includes all Officers Pay (except Mu<g ref="char:EOLhyphen"/>ſtermaſters) Alſo Colours, Drums, Trumpets, Clarks, De<g ref="char:EOLhyphen"/>puty-Lieutenants Entertainments, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Amounts to</cell>
+                     <cell>17500</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Muſter Maſter at</hi> 1s. <hi>per Horſman, 6386 Men amounts to 319l. 06s. For Foot at 6d.</hi> per Ann. per <hi>Man, which for 75617. amounts to 1890l. 08s. 06d.</hi>
+                     </cell>
+                     <cell>2209</cell>
+                     <cell>14</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Horſe Tropers</hi>
+                     </cell>
+                     <cell>17880</cell>
+                     <cell>16</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Foot Soldiers</hi>
+                     </cell>
+                     <cell>105863</cell>
+                     <cell>16</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sum Total</hi>
+                     </cell>
+                     <cell>143454</cell>
+                     <cell>06</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Beſides Clothing, which <hi>per</hi> Man once in two Years at <hi>50s.</hi> comes to <hi>per Ann.</hi>
+                     </cell>
+                     <cell>105988</cell>
+                     <cell>15</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>In all</cell>
+                     <cell>249443</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>To which adding a 12 part for the 5 Blank Counties or <hi>21000l.</hi> makes the whole charge</cell>
+                     <cell>270443</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:39523:3"/>
+Theſe particulars amount to above 270000 /. and yet neither Arms, Ammunition, Accoutrements or Horſes are mentioned; which if I could compute would amount to a very conſiderable Sum. But I ſhall not inſiſt upon them, being durable and not Annually conſumptive, only Ammunition is an Annual Charge, eſpecially here in <hi>London, Middleſex</hi> and <hi>Tower Hamless,</hi> who by the Printed Particular are 12077, beſides 131 Horſemen, Exclu<g ref="char:EOLhyphen"/>ſive of Officers who are 278. and theſe being out more than the 14 days limitation upon every Alarm, either Inland Plot or Inſurrection, or Forein Deſigns or Invaſions feared or appre<g ref="char:EOLhyphen"/>hended, makes the Citizens think the charge very great, being forced many times to give 4 or <hi>5s. per</hi> day or more, to an indifferent Man for the Service to appear and mount the Guard, which ſeems to indicate, that there's a growing neceſſity that ſome coercive Power or Law ſhould be ſet up again, as formerly, for making the Militia, Artillery or Trainedbands uſeful as formerly. I ſhall not inſiſt upon this coercive Power at preſent; but appro<g ref="char:EOLhyphen"/>priate it to a particular Paragraph, where I ſhall not argue it to be placed as an Additional Power in the Military Officer, but rather adhere to the fixing of it in the Civil Magiſtrate, who muſt be Diligent and Active, conſentaneouſly with the Military Officer, according to the Emblem and Motto of our Neighbours, being two Earthen Pots Floting on the Sea, with this Inſcription, <hi>Si collidimur frangimur.</hi>
+            </p>
+            <p>I know not to what charge and uncertainty we ſhall run: for its viſible, that ever ſince the Civil-War, the Militia has Annually declined, and it was in thoſe Unhappy Times that the firſt at<g ref="char:EOLhyphen"/>tempt was for putting the charge of the Militia into ſtanding Troops, for Awing and Inſulting the Nobility, Gentry and Freeholders; I hope we ſhall not follow the pattern of thoſe un<g ref="char:EOLhyphen"/>accountable times, when we were ſo unfortunate and unhappy as to want both King, Lords and Free Parliaments; tho I muſt conſeſs we ſeem by the neglect and diſparaging of the Mi<g ref="char:EOLhyphen"/>litia, to incline to the like circumſtances, for 'tis obſervable, King <hi>Charles</hi> II endeavoured as much as he could to raiſe and keep up Regular Troops, Guards, Regiments and Independant Companies; And that King <hi>James,</hi> when he had increa<g ref="char:EOLhyphen"/>ſed them, choſe rather to part with his Parliament than with his Regular Troops and Regiments, which are in a great part near an Eſtabliſhment, for its concluded by Arguments lately, 7000 Men that were in King <hi>Charles</hi>'s time for Guards and Gari<g ref="char:EOLhyphen"/>ſons
+<pb n="5" facs="tcp:39523:3"/>
+are not now ſufficient, tho they make another figure for its thought 120000l. paid them Annually then; and it ap<g ref="char:EOLhyphen"/>pears the Government allows 300000l. for the Annual Payment of theſe 7000, who muſt be encreaſed twice 7 in a few years more, if the Militia be not improved; for it is not 20000 Men in re<g ref="char:EOLhyphen"/>gular ſtanding Diſcipline that are ſufficient for our Security, if the Arguments are true, that our Neighbours are ſo formi<g ref="char:EOLhyphen"/>dable and likely to Invade us, by which arguments I did think they had been coming, but God be praiſed I neither ſee nor hear of their coming now: I hope its the noiſe or diſcourſe of our Militia that does ſomething diſcourage them, who if they be made uſeful, will be certainly our ſafeguard; but when that will be I dare not venture to ſay: for it is a rational buſineſs, and requires time to effect it, but if it be only talk'd of, never gone about, its not to be accompliſhed. Its like Propagation, which muſt firſt have copulation, and then lye forming near 12 Months in the Womb before it creeps or crawls out to view, and then ſome time before it finds motion and can go, and then ſome years before it comes to Maturity, but better late than never.</p>
+            <p>Therefore I humbly offer in Writing what I have been long loath to come unto, deſiring rather to have propoſed and explained my ſelf by Diſcourſe, for I ſolemnly proteſt, I do not think my ſelf properly qualified for ſuch a Pen-Man as is fit to appear in Print; but its the ſincere affection I have for my Country, that has prompted me to form my Notions into two Schemes, the firſt your Lordſhip hath already view'd of Numbers and Charges, the other I humbly Preſent here; which I heartily wiſh may prove worth the Pains of your honours view and conſideration. Its no new Project, Chimera or Capricio, its but the effects of the ſtudies which I thought my Duty, when I had the Honour to be in the Honourable Houſe of Commons, as a Repreſenta<g ref="char:EOLhyphen"/>tive of the City of <hi>Litchfield,</hi> in King <hi>Jame</hi>'s Parliament; when that Honourable Houſe of Commons were as Warm and Zea<g ref="char:EOLhyphen"/>lous for leſſening the Army they had conſented ſhould be rais'd, as this or the laſt years have been; tho that Army was but a handful of Men then, or very ſmall to what, this was lately. I remember very well I was behind an Eminent, Eloquent, Lordly Eſtated Member then, and is the ſame now, who ſaid there in a debate for Disbanding the Army. <hi>What, ſhall it be ſaid that we who are in an Iſland, in a great meaſure guarded by Gods Provi<g ref="char:EOLhyphen"/>dence<g ref="char:punc">▪</g>
+                  <pb n="6" facs="tcp:39523:4"/>
+do that which no part of the World doth tho upon the Continent, Eſtabliſh a Standing Army; and an Army thats pickt up in the Streets.</hi> To this there was no direct reply, tho I confeſs I thought the laſt Expreſſions Haughty, and poſſibly that worthy Member did not at that time conſider that many of the greateſt Nobility and Quality in <hi>England</hi> were in that Army. And I do believe, the Nobility and Gentry of <hi>England</hi> never put themſelves under Command and into Arms ſo readily and willingly, as they did into that ſmall Army, comparative to what has been ſince: to this warm expreſſion the chief reply was by a Member of ex<g ref="char:EOLhyphen"/>cellent parts alſo, (who is now alſo of that Houſe, but I think beyond Seas) who moved, that the Army might be continued till the Militia was made uſeful: then the Houſe went upon Propoſitions for making the Militia uſeful: whereupon it was my good Fortune (for the Houſe was pleaſed to hear me) to ſay Time was a neceſſary ingredient for the exerciſing and mak<g ref="char:EOLhyphen"/>ing of Soldiers; and that Fourteen Days in the Year was too ſhort and ſtrait a time for bringing Men into Order and Exerciſe, ſo much of the time being ſpent in coming and going, and then I was allowed to propoſe 20, 24 or 28. And then the Houſe did allow the enlarging of time to 28 Days; I do not recite this out of Oſtentation, to ſhew the Honour and Favour I had at that time, but to demonſtrate its no new thing, if the Parliament ſhould think fit to do ſomething like theſe following Propoſitions, which had been offered then if the Parliament had continued; but the diſcourſe and Arguments then for Disbanding the Army, was ſuppoſed to be the chief cauſe for the break<g ref="char:EOLhyphen"/>ing up the Parliament. For as I remember 700000l. was voted to be given, and ſome ſteps were made towards the raiſing of it; but rather than the King would part with his Army or Popiſh Officers and Servants, he then ſlighted the Mony and parted with the Parliament: this I confeſs is a little digreſſive from that I promiſed, which demonſtrates, like a Maidens Bluſh, that I am afraid to come to, but out it muſt come however it ſucceeds.</p>
+            <p>In the firſt Place, I Humbly Propoſe, to leſſen the Number of Foot one Half or more, and a little increaſe the Number of Horſe: as thus, the computed Number of Foot are 8439. which I would reduce to 40000 Officers Incluſive. The Horſe being 7400, I would increaſe them to 8000, Officers Incluſive; now with ſubmiſſion or allowance I will proceed to computation
+<pb n="7" facs="tcp:39523:4"/>
+of Pay for 48000 Horſe and Foot. For the 40000 Foot (Offi<g ref="char:EOLhyphen"/>cers Incluſive) I would propoſe to allow <hi>1s. per</hi> day a Man which comes in the whole to <hi>2000l. per diem.</hi> Theſe 40000 Men to be divided into Forty Regiments, conſiſting of 1000 Men in a Regiment, and every Regiment being divided into 10 Companies, every company conſiſting of 90 Sentinels, one Captain, 2 Lieutenants, 1 Enſign, 2 Serjeants, 1 Gentleman of the Pikes, 3 Corporals, and 2 Drums, theſe make the Compa<g ref="char:EOLhyphen"/>ny 102, ſo that if 5 or 6 be drawn out of the Squadron of Pikes, and 2 of them allowed for Hautboys, and the other 2 allowed for Lieutenants Men, compleats the Company to a 100. and 24 Pikes are a good ſtand to a Company; theſe at <hi>1s. per</hi> day come to <hi>5l.</hi> which are to be proportioned and Paid thus, 84 Pri<g ref="char:EOLhyphen"/>vate Sentinel at <hi>9d. per</hi> day comes to <hi>3l. 3s.</hi> the remaining <hi>1l. 17s.</hi> to be divided thus, the Captain <hi>7s. per</hi> day, 2 Lieutenants and their Men <hi>12s. per</hi> day, that is <hi>6s.</hi> each, the Enſign <hi>4s. 6d.</hi> 2 Drums at <hi>1s. 6d. per</hi> day <hi>3s.</hi> 2 Hautboys <hi>1s. 6d. per</hi> day <hi>3s.</hi> 2 Ser<g ref="char:EOLhyphen"/>jeants <hi>1s. 6d. per</hi> day <hi>3s.</hi> 1 Gentleman of the Pikes, who is to Write well, and as it were a Clerk to the Company <hi>1s. 6d. per</hi> day, 3 Corporals <hi>3s.</hi> which all together makes <hi>5l.</hi>
+            </p>
+            <p>Horſe 8000 (Officers Incluſive) at <hi>2s. 6d. per</hi> day, comes to <hi>1000l. per</hi> day, which divided into 16 Regiments are 500 in a Regiment, and thoſe divided into 10 Troops are 50 in a Troop; and thoſe are to be divided into 36 private Troopers, which make 9 Ranks 50 half Crowns is <hi>6l. 5s. per diem,</hi> which is thus proportioned, 36 Troopers <hi>4l. 10s.</hi> the remaining <hi>1l. 15s.</hi> to be divided thus, to the Lieutenant and his 2 Servants <hi>15s. per</hi> day, the Quarter-Maſter <hi>6s. per</hi> day; 2 Trumpets <hi>3s. 6d. per</hi> day; 2 Trumpets <hi>3s. 6d. per</hi> day <hi>7s.</hi> 2 Corporals <hi>3s. 6d. per</hi> day <hi>7s.</hi> the Captain and Cornet with their Servants compleat the 50, and are not thought to have pay; becauſe they are concluded to be Perſons of Quality or of great Eſtates, eſpecially the Captain, who is excuſed from ſerving Sheriff, and other places of Charge and Trouble; as all Military Men ſhould be excuſed from other Imployments, and as for Colonels, Lieutenant-Colonels, Majors and Captains, if they be not Knights being Men of Eſtates, by ſerving the King and their Country, (and indeed its alſo ſerving themſelves,) yet its odds but their Courage and Readineſs to ſerve the King and their Country may obtain them Knight-Hood, when they appear before the King, and why not as well as Lord-Mayour and Sheriffs; and as to the Cornet he has no Pay, becauſe he being ſuppoſed
+<pb n="8" facs="tcp:39523:5"/>
+to be a young Gentleman that either has an Eſtate and leiſure to accompany the Captain to gain Experience, if he be not his Eldeſt Son, and ſo likely to ſucceed his Father, eſpecially if he has gained Experience. Thus having proportioned the days Pay into Fractions, count the whole together for the Year, the Foot being <hi>2000l. per</hi> day, firſt for 14 days is <hi>28000l.</hi> Then 8000 Horſe at <hi>1000l.</hi> for 14 days is 14000. total for 14 days <hi>per Ann.</hi> is <hi>42000l.</hi> for 48000 Men; out of which I would deſire to De<g ref="char:EOLhyphen"/>tach 10000 Foot and 2000 Horſe to be Marched and Encamped, for which I would deſire 28 Days Yearly, to be added to the other 14 Days, being in all 6 Weeks, which being employed in Marching, encamping and daily Exerciſed whilſt Encamped, and the farther from their own Country the more and the better they will learn, and bring them to ſuch perfection they cannot forget the Diſcipline in Three Years, eſpecially Marching and Exerciſing 14 Days every Year of the Three Years. And by this means or Method the 48000 are Rotated, Marched, En<g ref="char:EOLhyphen"/>campt and Diſciplined. The whole Charge of this is thus com<g ref="char:EOLhyphen"/>puted, firſt the 2000 Horſe comes to <hi>250l.</hi> at <hi>2s. 6d. per</hi> day, conſequently at 28 days <hi>7000l.</hi> the 10000 Foot <hi>500l. per diem,</hi> for 28 days is <hi>14000l.</hi> The Total of 12000 Horſe ond Foot for 28 days is <hi>21000l.</hi> which added to the <hi>42000l.</hi> for 14 days makes the whole in the year <hi>63000l.</hi> Clothing 12000 Men yearly at the rate of <hi>2l. 10s. per</hi> Man, by which means they appear freſh in the Camp with Airing them the 14 days, in the other 3 years they may laſt the Rotation, and will amount to <hi>30000l.</hi> For Colours, Drums, Trumpets and ouher contingent Charges allow <hi>7000l.</hi> Arms, Horſes and Accoutrements I do not com<g ref="char:EOLhyphen"/>pute in this Scheme, becauſe I left them out in the other The Total is <hi>per Annum 100000l.</hi>
+            </p>
+            <p>The computation of the preſent incident charge of the Mi<g ref="char:EOLhyphen"/>litia amounting to about 270000.</p>
+            <p>And this Scheme amounting but to <hi>100000l.</hi> there will be leſs in charge, <hi>170000l.</hi>
+            </p>
+            <p>Ammunition I humbly refer for computation and determina<g ref="char:EOLhyphen"/>tion, as I do every thing to the better conſideration of Authority, to whom I alſo ſubmit, whether the Muſter-maſter be neceſſary, for I do with ſubmiſſion, think the Captain or Lieutenant of every Troop and Company preſenting a fair Roll every time they meet, to the Colonel, and he or they handing the Rolls to the Deputy Lieutenants or Lord Lieutenants, who
+<pb n="9" facs="tcp:39523:5"/>
+will have power to Puniſh Abſenters or other Faults; and they once in the Year preſent them to the King, or ſuch a Muſter<g ref="char:EOLhyphen"/>maſter-General as his Majeſty ſhall from time to time think fit to appoint for viewing and examining, and at his Majeſty's time or call repreſenting the Defaults, Miſdemeanors, Inconvenien<g ref="char:EOLhyphen"/>cies or Improvements, as the Officers of each Regiment ſhall deſ<g ref="char:EOLhyphen"/>cribe or ſubſcribe at the Foot of their Rolls; ſo that convenien<g ref="char:EOLhyphen"/>cies and inconveniencies will be repreſented to his Majeſty with eaſe, and be reduced and improved as his Majeſty ſhall think beſt, with the Advice of his Council, until ſuch time as the Parliament ſhall help or redreſs.</p>
+            <p>The Charge and Burthen of Defenſive Arms, as Back, Breaſt and Pot for Horſe-Man; and alſo the Charge and Burthen of Back, Breaſt and Headpiece for Pike Men, ſhall be waved, omitted and excuſed; and in caſe of any Extraordinary occaſion, its not to be doubted the Officers of the Ordnance will ſend ſufficient Numbers of Defenſive Arms with the Train of Artille<g ref="char:EOLhyphen"/>ry; if the Horſe Men be furniſhed with a long Carbine in a Sling or Belt and Box at his Saddle, as is now in the Guards, he will be better pleaſed, and at more eaſe than with the Burthen of the Back and Breaſt, <hi>&amp;c.</hi> and alſo the Foot, Bagonets for their ſides and Muzzels of their Muſquets; and I conſeſs I did not think of Cloaks in the Clothing of the Horſemen, but if they amount to 3 or 4000 <hi>per Annum</hi> the 4 firſt Years, they will laſt an Age for the uſe will be made of them.</p>
+            <p>Having leſſened the Number from Ninety odd Thouſand to 48000 Men, and alſo Pay and Charges from <hi>27000l. per Ann.</hi> by theſe 2 Schemes to <hi>100000l. per Ann.</hi> and time very near, if not abſolutely fitting for compleating the Militia, ſo that they are capable of ſuppreſſing any Inſurrections that ſhall be Enthuſi<g ref="char:EOLhyphen"/>aſtically or Diabolically rais'd in the Kingdom, and I doubt not will be in a fit readineſs to make a proper Stand or Defence, if any Foreigner ſhall attempt. And if our Trade happily in<g ref="char:EOLhyphen"/>creaſe, the Blood in Youth will be ſo warm: or if Trade ſhould unhappily be in the wane, there will be Deſperadoes in readineſs for going to defend any of our Plantations, Planting any new Colony that ſhall be found out, or to aſſiſt any Neigh<g ref="char:EOLhyphen"/>bour his Majeſty ſhall think fit: or upon mature Conſideration with his Parliament, will chearfully and readily Liſt themſelves for making a Deſcent upon thoſe that ſhall either affront the Honour of <hi>England,</hi> or diſturb and annoy her Trade; It muſt
+<pb n="10" facs="tcp:39523:6"/>
+be confeſſed, one Volunteer is better than two Preſſed; there's a Stanza of a Poet confirms this, by ſaying</p>
+            <lg>
+               <l>In Expedition greateſt Love appears,</l>
+               <l>Soldiers and Wives are best when Voluntiers.</l>
+            </lg>
+            <p>For Officers 'tis not to be doubted the Guards will be a Nur<g ref="char:EOLhyphen"/>ſery; nor is it to be doubted the Militia will afford many Offi<g ref="char:EOLhyphen"/>cers, who will go Voluntarily upon ſuch occaſions; for tho it muſt be confeſſed that Eſtates in the Country are exemplary to the Freeholder, and a Corroboration of the Militia; yet to ſay the Captains, Lieutenants and Enſigns of Foot, and the Lieu<g ref="char:EOLhyphen"/>tenants and Quartermaſters ſhall have ſuch and ſuch Eſtates, will be excluding many Gentlemen of leſſer Eſtates, and eſpe<g ref="char:EOLhyphen"/>cially Younger Brothers who are generally fitteſt for Soldiers, eſpecially for Soldiers of Fortune; and will willingly be in the Nurſery of the Militia, whereby he may have ſome Experience for going Abroad, if any occaſion encourage them: yet I con<g ref="char:EOLhyphen"/>feſs for the encouragement and Honour of the Militia, I would wiſh that every Commiſſion Officer ſhould be a known Gentle<g ref="char:EOLhyphen"/>man in his Country; not that I would have the Freeholder diſguſted; for if he will put himſelf under Arms or ſend a Son, who having ſeen a Campain or two, and then having carried a Halbert and Exerciſed the Company another Campain: with ſubmiſſion I think him qualified and proper for a Lieutenant in the Militia, and ſo advance in Foreign Service as Fortune ſhall favour his Courage and Induſtry. Its not propoſed they ſhould be ſtopt in their advance in the Militia, becauſe they are not capable of being Soldiers. But the deſign of having Gentlemen of Good Eſtates and known Families in the Country to become Militia Officers, is to encourage the Freeholder to ſerve in Perſon, or ſend his Son; or if he is not of Ability of Body, or is Infirm by Accidents, Sickneſs or Age, he will the more conſider the Repreſentative he ſends, and to conclude its an Indecency, Abſurdity and Irrational, that he ſhould ſend an Idle, Drunken Swaggering Perſon to be in an acceptation of fellow Soldier, with the beſt Eſtates and Quality in the Country.</p>
+            <p>This is unreaſonable and unnatural to the ſolid and ſubſtan<g ref="char:EOLhyphen"/>tial deſign and intent for preſervation of the Nation, and e<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery individual Property and Perſon.</p>
+            <p>
+               <pb n="11" facs="tcp:39523:6"/>Which brings me to diſtinguiſh betwixt Perſons and Pay; for although I heartily wiſh to ſee the Militia Marching with Gentlemen of great Eſtates in the head of them, and every other Commiſſion-Officer a Gentleman, every Horſeman ſo well Mounted, Accoutred and Cloathed, that his Maſter of <hi>500l. per Annum</hi> may not be aſhamed to own him for his Re<g ref="char:EOLhyphen"/>preſentative; nor the Freeholder of <hi>50l. per Annum</hi> his Repre<g ref="char:EOLhyphen"/>ſentative in the Foot; ſo that we ſtick cloſe to the Pattern of the preſent Militia, only Improveing in the care and diligence of ſending better Men and Horſes, and not changing either under Penalties without good reaſons, and thoſe with vouchers to the Officers, and not frivolous Excuſes or Favour of the Officer. And for this care and diligence under ſevere Penalties for neglect; it ſeems Rational and Natural there ſhould be a Relaxation of their Charge, for whatever tends to a general good, eaſe or advantage; its natural Equity the Expence or Charge ſhould be born by every individual Perſon, according to the proportion of his Eſtate; not that the Landed Men Finders ſhall be abated one Farthing in the County Tax, (I think there is a common Lawyers Latin, <hi>Honos habet onus &amp; Terras querras,</hi>) which is propoſed as genearl upon this occaſion as any Tax that has brought in Land, Mony, Per<g ref="char:EOLhyphen"/>ſonal Eſtate or Offices; for the Soldier Exerciſes his Arms and Ha<g ref="char:EOLhyphen"/>zards himſelf in their Defence equally; only this I muſt add to conſideration, whether it is not alſo equitable that the finders of Horſe and Foot, ſhould be excuſed from Offices in the Civil Go<g ref="char:EOLhyphen"/>vernment; not that the finder of a whole Horſe or half a Horſe ſhould be excuſed from High-Sheriff, for that would Excuſe the whole County and Kingdom, but from ſerving on the Grand-Jury or other Juries if he will plead the Privilege; and the Freeholder alſo of <hi>50l. per Annum,</hi> being a Foot-Soldier or Finder, is to be excuſed from Juries or ſerving Conſtable and other ſmall Offices in the Pariſh; provided that he applies him<g ref="char:EOLhyphen"/>ſelf to the next Juſtice of the Peace, and demonſtrates to him, that there are others in the ſaid Pariſh qualified for the Duty: if ſo, (and he is freed from their Services) he has no Excuſe for not being in readineſs upon any ſudden Summons or Alarm; nor is he to go any long Journey from home, without ſatis<g ref="char:EOLhyphen"/>fying the Officer in whoſe Diſtrict he is, or the next Juſtice of the Peace, that he leaves a fit Repreſentative; and alſo a years pay in the ſaid Officer or Juſtices hands, taking a Receipt for the ſame.</p>
+            <p>
+               <pb n="12" facs="tcp:39523:7"/>I crave leave to offer one conſideration more of theſe Finders, that tho the Horſe or his Rider is not to go out of the County above five or ſix Miles, without the leave of one of the Com<g ref="char:EOLhyphen"/>miſſion Officers, under whoſe command he is, or the next Juſtice of the Peace; yet in caſe it ſhall happen the Horſe Fails or dies by any violence or occaſion Military, not if upon a natural Diſtemper, (that he may do in the Stable at home,) but if the Commiſſion-Officers or Officer, under whoſe Command he is, does certifie under his hand, that the Horſe fail'd by reaſon of his Military Duty, and alſo computes his value if Dead, or the damage that may be to his Finder, if Lamed or Blemiſh'd; upon the Finders delivery of the Certificate to the Treaſurer of the County, he is to pay the ſum certified, and the Certifi<g ref="char:EOLhyphen"/>cate is to paſs in the accounts of the Treaſurer at the Aſſizes or Seſſions: or when the Lieutenancy with two or three Juſtices or more, wherof one to be of the Quorum and not a Military Officer, ſhall paſs the general accompts: and alſo the Soldier whether Horſe or Foot Man, if he be adjudged by his Officers to become Sick either by Heats ot Colds in Marching, Encamp<g ref="char:EOLhyphen"/>ing, or any Poſt or Part of his Duty, or Maim'd or Diſabled; upon the Certificate of his Officers or one Field-Officer, his Finder is to ſee he has all neceſſaries of Cloths, Diet or other ſuſtenance, and due applications for Sickneſs or Wounds or other requiſites for his Condition, until the next Quarter Seſſi<g ref="char:EOLhyphen"/>ons; and then as it ſhall appear to the Bench, he ſhall according to their direction be Allowed and Maintain'd out of the Publick Stock of the County.</p>
+            <p>Here it may be ſaid (and I expect it) that it will be a great difficulty to proportion and raiſe this Mony; and that your Lordſhips have not Power, either by your Lieutenancy, or Authority of your whole Houſe to raiſe Mony: to your Lordſhips power of raiſing Mony I acquiece, but with ſubmiſſion to your Lordſhips, if your Lordſhips who are Lord-Lieutenants of all the Counties of <hi>England</hi> and <hi>Wales,</hi> conſult to draw a Bill for making the Militia more uſeful, leaving Blanks for the Horſe and Foot, with a Blank for ſuch a computed ſum to be raiſed yearly; and this Bill be approved by your moſt Honourable Houſe, I am with ſubmiſſion apt to hope, and inclined to think, the Honourable Houſe of Commons will fill up the Blanks and compleat the Bill; eſpecially if the Bill have a Preamble con<g ref="char:EOLhyphen"/>taining the Charge and Services of former Ages, to what our
+<pb n="13" facs="tcp:39523:7"/>
+preſent Freedom is, and will be; if ſuch a Bill as theſe and the like Propoſitions ſhould take effect. For if your Lordſhips take this preſent Printed Liſt of Horſe and Foot, amounting to Ninety odd Thouſand (who are ſhort of the computed Annual value of the Kingdom, which is Fourteen Millions <hi>per Ann.</hi>) and reduce them again to 48000 Horſe and Foot, which is about half; and then Abſtract and Proportion every County Proportionably, I do ſuppoſe it will be no great difficulty to ſay how many Men and how much Mony each County ſhall raiſe; and by way of Addition ſcattering the 7000l. for con<g ref="char:EOLhyphen"/>tingent Charges into parcels, through the Dominions of <hi>England</hi> and <hi>Wales.</hi> There may a difficulty ariſe amongſt your Lord<g ref="char:EOLhyphen"/>ſhips, I confeſs, how to joyn ſmall and great Counties together for Regimenting of them, and then dividing the 40000 Foot into four parts, and alſo the Horſe of 8000 into four parts, ſo that 10000 Foot and 2000 Horſe may March and Encamp every Year.</p>
+            <p>This, when the Charge is agreed, will be a greater Nicety than the proportioning the Money; yet if your Lordſhips meet with ſerious Intention and amicable Inclination for ſettling the <hi>Militia</hi> near theſe Schemes or Diſcourſe, I doubt not but this ſeeming ravel'd Clue of Pack-thread may be drawn ſtreight; and after one or two years Encampments at <hi>Hounſlow,</hi> of theſe 12000 for one Month, who will have a very ſhort March from <hi>London</hi> and <hi>Middleſex,</hi> and the Counties adjacent, for the firſt year or two; by that time the remoter Counties, who are more ignorant, will gain ſome Information and Experience and be<g ref="char:EOLhyphen"/>come faſhionable: as <hi>Iter Borcale</hi> ſings,</p>
+            <lg>
+               <l>Thus Ring the Bells of <hi>Bow,</hi>
+               </l>
+               <l>Down to the Country Candleſticks below.</l>
+            </lg>
+            <p>Theſe little Inſtances may be tedious to your Lordſhip, your Honour being inclinable to make the <hi>Militia</hi> uſeful, and it's probable your Honour's Thoughts may be imploy'd in a better way to a true value; yet if this my Pains proves like the La<g ref="char:EOLhyphen"/>bour of cutting a Pebble ſtone, which with artificial Setting may make a ſhew till your Diamond appears, yet the Labour is not wholly loſt; for it will be diſcernibly meaner than your Luſtre, and conſequently your Care for your Country will be wonder<g ref="char:EOLhyphen"/>fully admired; tho you in the inſtance actuate your perſonal
+<pb n="14" facs="tcp:39523:8"/>
+and Poſterity's Preſervation: as may appear more clearly after I have, according to promiſe, preſented a Paragraph of the Word Coerſive.</p>
+            <p>Which is not to be defined with my Incapacities; but I hope the Recital of Antient Statutes will demonſtrate I am in ſome meaſure apprehenſive of the Word.</p>
+            <p>
+               <hi>Imprimis, Stat. 7. Edw. I.</hi> Says, it belongs to the King to pro<g ref="char:EOLhyphen"/>hibit Force of Arms, and all other Force againſt the Peace, and to puniſh Offenders therein according to Law. And herein every Subject is bound to be aiding.</p>
+            <p>
+               <hi>Stat. 1. E. III. Stat.</hi> 2. 5. None ſhall be charged to arm himſelf other ways than was uſed in the time of the King's Pro<g ref="char:EOLhyphen"/>genitors; neither yet ſhall any be compell'd to go out of his Shire, but when Neceſſity requireth, and the ſudden coming of ſtrange Enemies into the Realm, and then it ſhall be done, as in times paſt, for the Defence of the Realm.</p>
+            <p>
+               <hi>Stat. c. 18. Hen. VI.</hi> 19. It is Felony for a Souldier (retained to ſerve the King in his Wars) not to go with, or to depart from his Captain without Licence.</p>
+            <p>
+               <hi>Stat. 7. Hen. VII.</hi> 1. A Captain which ſhall not have the whole Number of Souldiers, or not pay them their due Wages within ſix days after he ſhall have received them, ſhall forfeit all his Goods and Chattels, and ſuffer Impriſonment.</p>
+            <p>
+               <hi>Stat. 2. &amp; 3. Edw. VI.</hi> 2. A Souldier that makes away his Horſe or Arms (proof thereof being made before the Chief Commander) ſhall ſuffer Impriſonment without Bail, until he hath ſatisfied the Party at whoſe Charge he was ſet out.</p>
+            <p>In this Act alſo it's Felony (without Benefit of Clergy) for a Souldier retain'd to depart without Licence of his Comman<g ref="char:EOLhyphen"/>der; whereupon Juſtices of the Peace may proceed as in caſe of Felony.</p>
+            <p>After theſe Strictneſſes comes the Compaſſion and natural Equity in that Age, which was a conſiderable Sum in thoſe days, for a maimed Souldier, upon a Certificate under the Hand and Seal of the Chief Commander, or the Captain under whom he ſerved; to him that hath not born Offices not exceeding 10 l. To any Officer under a Lieutenant 15 l. To a Lieutenant 20 l.</p>
+            <p>This Statute admits of many Particulars, as <hi>Wingate,</hi> in his A<g ref="char:EOLhyphen"/>bridgment reviewed and revived by <hi>Waſhington,</hi> will demon<g ref="char:EOLhyphen"/>ſtrate; from whom I have theſe Abſtracts, and ſhall recite
+<pb n="15" facs="tcp:39523:8"/>
+more; therefore I may be eaſily diſcover'd upon Suſpicion or Diſlike. If I quote, I will as near as I can be true; where I do not quote, if I ſay that which is not allow'd to be generally good, it's my Misfortune; for I intend every Particle for the beſt in the main; tho moſt Actions and even a ſhort Sentence may admit of various Conſtructions, and it's oft ſaid that moſt things have two Handles; and if I am taken by the weakeſt, and muſt, like a crazy piece of Earthen Ware, fall to the ground and be daſh'd in pieces, I am the more Unfortunate; eſpecially at this Seaſon, when the Doctrine of Charity and Compaſſion for Misfortunes and Infirmities is the grand Admonition. But if I am the only Perſon blameable, I hope in the Concluſion (after I have recited ſome more Statutes, and ſum'd up the Heads of this Diſcourſe in this <hi>Eſcrole</hi>) to ſay ſomething for my ſelf by way of Declaration, which may indicate my Deſire for an Atonement.</p>
+            <p>
+               <hi>Stat. 4. &amp; 5. Phil. &amp; Mar.</hi> 3. If any one, who ſhall be com<g ref="char:EOLhyphen"/>manded to muſter by any authorized thereunto, doth abſent himſelf (having no lawful Excuſe) or at ſuch Muſters doth not bring with him his beſt Arms, he ſhall ſuffer ten days Impri<g ref="char:EOLhyphen"/>ſonment without Bail, to be impoſed by the Perſons ſo autho<g ref="char:EOLhyphen"/>rized, unleſs he agree to pay 40 l. as a Fine, to the uſe of the King and Queen, and the Heirs and Succeſſors of the Queen: which Fine ſhall be eſtreated into the Exchequer by the ſaid Per<g ref="char:EOLhyphen"/>ſons ſo authorized under their Seals, within two Months after ſuch Agreement, and afterwards levied as Fines aſſeſſed by Juſti<g ref="char:EOLhyphen"/>ces of Aſſize and Gaol delivery in their Circuits.</p>
+            <p>This Statute muſt be concluded to extend to the Perſon him<g ref="char:EOLhyphen"/>ſelf, whom we will call a Finder; for it cannot be ſuppoſed that a Servant riding his Maſter's Horſe, or an Hireling repre<g ref="char:EOLhyphen"/>ſenting a Freeholder, is capable of Compounding for 40 l. There are ſeveral material Inſtances in this Act, which are to be view'd at leiſure and at large, which neither Time nor Room will admit of now. Therefore I only recite theſe two In<g ref="char:EOLhyphen"/>ſtances.</p>
+            <p>
+               <hi>Firſt,</hi> Offences committed during the time of Service ſhall be heard and determined by the Chief Commander.</p>
+            <p>
+               <hi>Secondly,</hi> This Act ſhall not diſcharge Service of War incident to the Tenure of Land.</p>
+            <p>
+               <pb n="16" facs="tcp:39523:9"/>This brings me to the Recital of Tenures heretofore, which have been theſe, <hi>Knights Service, Villenage, Eſcuage, Wardſhip,</hi> and ſeveral others; which are deſcribed in ſeveral Volumes of Antiquity, which are an obſolete Reading tho divertive, yet not to be brought within the compaſs of a Pamphlet or <hi>Vade me<g ref="char:EOLhyphen"/>cum.</hi> But upon this occaſion of comparing former Ages with the preſent they are really neceſſary; therefore I requeſt here to recite their Efficacy.</p>
+            <p>
+               <hi>Knights Service</hi> obliged to attend the King, when in Arms either at home or abroad. He that held Land in a whole Knights Fee, was obliged to attend the King forty days, well and conveniently array'd for the War. If he had two or three Knights Fees, his times were to be increaſed accordingly. If half a Knights Fee, twenty days, <hi>&amp;c. pro rata.</hi>
+            </p>
+            <p>
+               <hi>Villenage</hi> was upon the ſeeming preſent ſort of Yeomanry, who were to take care of the Liege-Lords Lands in Demeane, as we ſay; for Plowing and all Husbandry, beſides fetching his Coals, Materials for Buildings, or ſuch Services he ſhould be call'd to, which in ſhort did not allow him any time for him to ſay he was Maſter of, eſpecially during the War.</p>
+            <p>
+               <hi>Eſcuage</hi> ſeems to mitigate this Rigour; for Eſcuage accor<g ref="char:EOLhyphen"/>ding to my apprehenſion, was either to go in Perſon, as above, in Knights Service, or Commute, as we ſay now, commonly Compound, by paying a Sum <hi>pro. rata,</hi> according as the Land he poſſeſſes, Knight's Fee 2,3, or half One.</p>
+            <p>A <hi>Ward</hi> I ſhall not deſcribe; becauſe under Age, and not fit to march under <hi>Mars</hi>'s Banner; yet the coercive Power to ſerve under <hi>Venus</hi> ſeemed a greater Grievance to the Subject; for under the one you could dye but once, under the other you might live 60 Years in daily Torment, each minute worſe than Death. For Marriage was oſt-times directed, like or not like, as the Guardian thought fit. This laſt, or any of the former, when really conſidered, I ſtood amaz'd at the Health to old <hi>England,</hi> and the more now, becauſe ſome Gentlemen I have met with lately, who I thought had read more than my ſelf, have laught at my Deſires for a Definition of old <hi>England.</hi>
+            </p>
+            <p>If theſe Four Inſtances may be look'd upon as Members of the Body Politick in former times, I deſire to be pardon'd if I ſay this Monarchical Power was as Deſpotical as any Monar<g ref="char:EOLhyphen"/>chy in Chriſtendom; it's confeſt it did not extend to Life; but it had the Privilege of the firſt Night with the Bride,
+<pb n="17" facs="tcp:39523:9"/>
+which yet in ſome places pays a Compoſition, and is called <hi>Gava.</hi>
+            </p>
+            <p>More Inſtances of this kind might be brought even from <hi>Magna Charta</hi> her ſelf.</p>
+            <p>31. If a Barony eſcheat to the King, the Tenants that hold of the ſame (not having other Lands that hold of the King in chief) ſhall pay like Relief, and do like <hi>Services to the King</hi> after ſuch Eſcheat, as they did to their former Lords, <hi>&amp;c.</hi>
+            </p>
+            <p>32. No Freeman ſhall give or ſell ſo much of his Land, that of the reſidue the Lord of the Fee may not have Services due to him.</p>
+            <p>It's confeſs'd, ſeveral little Rents are remaining to keep in mind the Services the Generality of the People underwent for<g ref="char:EOLhyphen"/>merly; which certainly are not to be wiſhed for under the honourable and happy Character of old <hi>England</hi> has been under hard Services ſince <hi>Magna Charta</hi> (which was obtain'd by popular Sway,) what did ſhe endure or under<g ref="char:EOLhyphen"/>go before <hi>Magna Charta</hi> gain'd? I would willingly joyn iſſue, and pledg their Health if they only recite the Honour and Courage of old <hi>England,</hi> which appear'd, demonſtrated, and effected their great Exploits by thoſe Services; which do clearly evidence, that the Nobility and Gentry going perſonally into the Field, do defend and conquer with Honour and Advantage, like our preſent King, and like the antient <hi>Romans,</hi> who, whilſt they went in perſon, conquer'd for the moſt part: But when they had enlarg'd their dominions, and rais'd, as they thought, an immortal Terrour, Honour, and Character, they became effeminate, and made uſe of mercenary Armies, and declin'd the Uſe of Arms themſelves: So that in proceſs of time, they waving the general Good, ſet up for deep Politicians, and by ſeperate Inſinuations, obtain'd Popularity, and ſo fell into domeſtick Quarrels, till there's nothing remaining more than ſome of their Statues, Medals, and Hiſtories to demon<g ref="char:EOLhyphen"/>ſtrate what they have been.</p>
+            <p>I only hint at this Precedent with ſome of our own, to de<g ref="char:EOLhyphen"/>monſtrate the Advantages of Perſonal Appearance. It was by this means that the <hi>Scots</hi> were ſo oft repulſed when they made Incurſions upon us; By theſe means <hi>Wales</hi> was brought to an entire Obedience and Union; By theſe means <hi>Ireland</hi> became tributary; By theſe means it was the <hi>Engliſh</hi> made In roads in<g ref="char:EOLhyphen"/>to
+<pb n="18" facs="tcp:39523:10"/>
+               <hi>France</hi> to ſuch a degree, we claim it as our Conqueſt. And the Name of <hi>Talbot</hi> remains as a Terrour: But we have loſt that Power by a long ſeries of Peace in Queen <hi>Elizabeths</hi> days and King <hi>James</hi>'s; for after ſhe had happily defeated the <hi>Spa<g ref="char:EOLhyphen"/>niſh Armado:</hi> ſhe did, it's confeſs'd, ſet up and went a great way in the Dominion of the Narrow Seas, and ſoon after reſted her ſelf contented with Familiarities and pretty Inſinua<g ref="char:EOLhyphen"/>tions into her People: whoſe Steps King <hi>James</hi> I. followed, for he had ſuch an Averſion to Gun powder he ſmelt it at a great Diſtance, and ſo being a Man of Literature he convers'd with Scholaſticks, and did go a great way towards arguing out Popery; which made the ſubtle Jeſuit go another way to work, and dreſs himſelf in a Fanatical Diſguiſe, under which it's doubted he ſtill lurks amongſt us; however its ſadly experi<g ref="char:EOLhyphen"/>enc'd that the Jeſuit was the Bellows that blew up the late Civil War; and that altho he could not inſinuate himſelf into the majority of the Nobility and Gentry ſo as to alienate them from their Duty to their King; yet he knew what I have ſeveral times heard recited as the Original of an <hi>Engliſh</hi> Gentleman or two, That the only means to counter Honour is Zeal. And ſo we found that the Enthuſiaſtick Head and hard Hand in<g ref="char:EOLhyphen"/>couraging the unthinking Mobb at that time with Plunder and Sacrilege, brought us almoſt to Devaſtation; and yet I hear ſome admire the Man that had the Gathering of two or three eaſie Reigns, or Gleanings of that Confuſion, as we naturally call Arbitrary Power. It's confeſſed thoſe Times ſhew'd great Courage; Blood and Slaughter on both ſides appear'd as a Scene of Mirth to him that thought he had Succeſs. But when we commend theſe Traditions or Hiſtorical Stories of Courage, we ſeem to reſemble the Perſon that loves Honey, but does not conſider the laborious Bee who goes abroad with a natural In<g ref="char:EOLhyphen"/>clination to gather Store againſt the Winter, at every Glimps of Sun ſhine innocently moving not apprehenſive of the Storm that is coming, which perhaps affrights her home before ſhe has found out any thing to compenſate her Pains, and ſo re<g ref="char:EOLhyphen"/>turns home empty of any Loading, only rejoycing ſhe has ſav'd her Life; and if when the beſt of Days happen to favour her, and ſhe make quick Returns, unloading her ſelf immediately as ſhe gathers, yet we ſcarce think or know from what Bryars, Brambles, Thorns and prickly Buſhes ſhe has obtained this we ſo
+<pb n="19" facs="tcp:39523:10"/>
+much delight in, and ſo tyrannically, as I may call it, de<g ref="char:EOLhyphen"/>ſtroy this laborious Creature. This is a true Repreſentation of our Government Power and its Effects till lately; it's ſince the Revolution that the <hi>Engliſh</hi> Subject was put into the moſt likely Enjoyment of what the Terreſtrial Matters can afford, and theſe Halcyon days were ſecur'd us by the <hi>Stat. 12 Car. II. c.</hi> 24. All Tenures by Knights Service <hi>in Capite,</hi> and Common Soccage, and the Fruits and Conſequents thereof ſhall be taken away; and all Tenures turn'd into Free and Common Soccage; and all Conveyances and Deviſes ſince the <hi>24th</hi> of <hi>February,</hi> 1645, ſhall be of ſuch Effect, as if the Lands and Heredita<g ref="char:EOLhyphen"/>ments had then been holden in Free Soccage only, and all Te<g ref="char:EOLhyphen"/>nures to be created by the King ſhall be in Free Soccage only, and not <hi>in Capite.</hi>
+            </p>
+            <p>From hence it is we may ſay we were freed from the ſtrait Reins and Spurrs that hung up in the Hall of the Prerogative Palace, tho they have not been effectually put on for ſome time; we having been by the Indulgence of the former Reigns, I now mentioned, grown rather like untameable Creatures than Colts, and found our ſelves grown to full Strength; ſo that we would neither indure Bit nor Bridle, and the Spurs are of no uſe without Backing; ſo that in truth it was no great Dif<g ref="char:EOLhyphen"/>ficulty to treat with the Crown to part with theſe Tackle; which (unleſs the Court of Wards) in my apprehenſion had not been made uſe of for many years; yet the Wiſdom of the Na<g ref="char:EOLhyphen"/>tion did not like to ſee them hang in their Sight; and therefore were willing to come to a Compact. And the whole Nation having drank rather too much in the Rejoicing at the Reſtaura<g ref="char:EOLhyphen"/>tion of him that had an Hereditary Right, and was affable in his Treat to a Bargain; and ſo, as I apprehend it, either by ſhortning the Meaſure, or ſmalling the Liquor, or taking away a little of the Brewers immenſe Profit, we were eas'd of all theſe Incumbrances for Exciſe. The Militia being re-eſtabliſh'd and in ſome parts a little new modell'd; which ſeemed very ſatisfactory and a good Security, till our Neighbours grew po<g ref="char:EOLhyphen"/>tent, and we conſiderable, having in the main recovered our inteſtine Ruines the Plague and Fire of <hi>London.</hi> And then Grumblings began, Jealouſies again increaſed, and then every individual Perſon began to arm again, and Politicians began to publiſh Reaſons: and had not our Neighbours Potency both by
+<pb n="20" facs="tcp:39523:11"/>
+Sea and Land, given us Apprehenſions of their Readineſs to ſlip in amongſt us; we look'd very like the adventuring another E<g ref="char:EOLhyphen"/>ruption, which Providence has mercifully prevented by his own ſcourging methods, which put us in thorow Fears, tho in his mercy he hath ſtop'd both the apparent Dangers, either of bringing in Popery or arbitrary Powar by Inſinuations and Po<g ref="char:EOLhyphen"/>licies, or Popery and Devaſtation by a Potent Neighbour.</p>
+            <p>For avoiding of which for the future is the main End of ſe<g ref="char:EOLhyphen"/>veral Scriblings and Diſcourſes, and ſeveral ſerious Conſidera<g ref="char:EOLhyphen"/>tions of the wiſer Heads. All which are or ought to be wiſh'd to be ſucceſsful for finding out the beſt Expedients for our Preſervation. For which I ſhall not adventure to ſay any more at preſent, tho I have more Thoughts about the Militia and the Diſciplined Army, in the Diſcourſe of which I have ſaid ſo much, I muſt decline any farther, without continuance of theſe or thoſe of Annuities; and endeavour to offer two or three Apologies for compoſing or making my Peace for what I have ſaid; tho I hope it's no more than my common or ſtanding Misfortune, rather than wilful Fault, for I am ſure I do not do any thing ſpleenatickly nor out of Diſguſt. But my preſent State is much as my Caſe was in King <hi>Charles</hi>'s Sickneſs, for obeying Commands and doing my Duty.</p>
+            <p>The moſt diſmal and melancholy Morning (with Showers and Floods of Tears) that ever I beheld in the Faces of all People, Nobility, Gentry and Commonalty, both in Court and City, (wherein I had my ſhare, by hazard of Life and the lit<g ref="char:EOLhyphen"/>tle Fortune I had left) was when King <hi>Charles</hi> the Second fell into an Apoplectick Fit, which he never recovered: immediatly upon his Fatal Silence I was commanded to double the Guards, and ſhut up (if it was poſſible) all the Avenues to the Houſe; and perſonally attend at the Door (into the Fane Room) out of the great Anti-Room to the Bed Chamber; and admit no Perſons, of any Degree or Quality whatſoever, to come in or to continue in that great Room, unleſs Privy Counſellours. In obſervance of which I drew upon me the Odium of moſt of the Nobility, Quality, and Officers<g ref="char:punc">▪</g> ſo that I had Threats and Challenges innumerable: every individual Perſon, through his Affection and Intereſt, being as deſirous as if his own Life was at the period; to know the King's Condition. After ſome di<g ref="char:EOLhyphen"/>ſtinct times Lords were allow'd to be there, and then Lords
+<pb n="21" facs="tcp:39523:11"/>
+Sons. But all the firſt day the Saw was drawn over me betwixt the Lord Chamberlain, Groom of the Stole and Lord of the Bed Chamber in Waiting, all of them, claiming the Juriſdiction of that Room, ſo that I was teazed within, and ſo threatned without, I concluded I muſt never appear in Publick. My caſe may not be far differing now, without Providence favour me, and that your Lordſhips, the Army and the Generality of the Nation will believe that what I have adventured to ſay, and do in theſe Papers proceed from the dictates of my Daty and Conſcience for the general good of the preſent and future Age and Ages, and not out of Pride or Fantaſtick conceit; and where I am erroneous I hope it will be gently paſſed over as the effect of ignorance and Melancholy; which I confeſs is ſometimes near being my Maſter, particularly when I find my intentions for a general or particular good (for others as well as for my ſelf;) are taken in another ſence, and turned to my Inconveniency or Prejudice; therefore I crave your Lordſhips Pardon in general for the trouble that theſe Papers may have occaſioned; promiſing that if I remain after this Seſſions diſcountenanced both in the attempts for making the Militia more uſeful, and alſo the renewing and better ſettling the Annuities, I will never ſet my hand again to a Publick Print as I do to this, rather by way of Declaration than Recantation of what I have unhappily pub<g ref="char:EOLhyphen"/>liſhed to my loſs, and the diſſatisfaction of a particular Lord; from whom I do hereby ſolemnly declare with Truth and Sincerity; that I have received more Favour and Kindneſs than any Man Living, both at Court and in his own Houſe and Family; and that I think my ſelf oblig'd to Serve him and them with the utmoſt of my Ability, and this is all I can ſay towards an Attonement for what is paſt; if it ſtands as a Fault Recorded, which can be no worſe Character'd than the Latin affords,</p>
+            <lg>
+               <l>Nil habet infaelix Paupertas durius in ſe,</l>
+               <l>Quam quod Ridiculos homines facit.</l>
+            </lg>
+            <p>
+               <pb n="22" facs="tcp:39523:12"/>My groſs Preſumption was Printing a Favour without Li<g ref="char:EOLhyphen"/>cenſe, for and with which I humbly offered a Reaſon and endeavour'd an Apology, ſo that I can ſay no more till I hear what Submiſſion is made for Printing Letters of thoſe of the Higheſt Quality, and Expoſing them to publick Sale, which I have by me and by Purchaſe, which with Submiſſion, tho they tend to the ſame purpoſe, are not more Emphatical or Eſſicacious, and why he ſhall reſt unrecriminated that expoſes Quality to publick Sale, and I generally blam'd for communi<g ref="char:EOLhyphen"/>cation to the <hi>Pares</hi> of the Original Author, is, I yet hope not ſo much a Fault as Misfortune, being ſincerely intended as a ſtep rather towards corroboration of Honour than diſturbance or any inconveniency; if theſe approaches can not prevail for a Pardon, I muſt farther follow the advice I long ſince learnt,</p>
+            <q>Dum Furor in curſu eſt, currenti cede furori.</q>
+            <p>Humbly aſſuring your Lordſhips, that for the future I ſhall be very Cautious of preſuming to diſcourſe, either of, or with Honour, or Honours; but rather obſerve the Scripture inſtructions, <hi>When thou comeſt to a Rich Mans Table put thy Knife to thy Throat, i. e.</hi> converſe with none but thy equals.</p>
+            <p>And this Cauſes me to look back into this Paper to review and conſider whether I have not preſum'd, in ſaying the No<g ref="char:EOLhyphen"/>bility of <hi>England</hi> never put themſelves into Arms with more Willingneſs and Readineſs than they did at King <hi>James</hi>'s Acceſs to the Crown. Now finding it ſo nice and Difficult a Point to mention Honour; I muſt enlarge by obſerving alſo, That when the Proteſtant Nobility underſtood the Diſpenſing Power was putting in practice, for relaxing or ſetting aſide thoſe Laws which had been many years and ſeveral Reigns in making for defence of the Proteſtant Religion we now pretend to; and that all Eneavours poſſible were in agitation for introducing the Popiſh Perſuaſion: the Proteſtant Nobility and Gentry quitted their Poſts in the Army, and other Employments and Truſts as faſt as any ſober People in the World ever did: for al<g ref="char:EOLhyphen"/>tho they have a great regard to Monarchy, yet they will not ſo much indulge it as arbitrariouſly to diſannul thoſe Laws by
+<pb n="23" facs="tcp:39523:12"/>
+which we enjoy (as happily as any People in the World) our Religion and Property, which God continue long: For I am near an aſſurance it is not in the power of Foreigners to give us any great Diſturbance, ſo long as we continue the preſent ap<g ref="char:EOLhyphen"/>pearing mutual Affection, and interchangeable Addreſſes and Anſwers as have paſt betwixt the King, Lords and Commons, this preſent Parliament; who, if they continue like the Sheaf of Arrows, are not to be broken: but ſhould they unhappily ſepa<g ref="char:EOLhyphen"/>rate, then our Neighbour (by the Inſtigation of the lurking Je<g ref="char:EOLhyphen"/>ſuit) may break or ſnap us in pleces, like dry Reeds and Tobac<g ref="char:EOLhyphen"/>co-pipes.</p>
+            <p>I muſt requeſt leave for two or three Lines towards explain<g ref="char:EOLhyphen"/>ing my ſelf, for keeping my peace with the Souldiery, who I hope will allow me to explain my ſelf thus, That I think it ab<g ref="char:EOLhyphen"/>ſolutely neceſlary they ſhould continue in the Station they ſeem ſettled for this year, and alſo fill'd up to a compleat number equal to their Officers, if occaſion requires; or a greater Number upon emergent Neceſſity, ſuch as has been diſcours'd of the <hi>French</hi> Landing. For the Militia muſt be dwindled be<g ref="char:EOLhyphen"/>low Effeminacy, and become as inconſiderable as a caſt Miſtreſs, not having been look'd upon theſe ſeven years laſt paſt; ſhe has been mentioned, and ſo far enacted ſeveral years as to be in readineſs, not with Arms and Ammunition, but with a Months Pay in their Pockets.</p>
+            <p>If this be all the Improvement that can be made of her, it's time to lay her aſide abſolutely, and inlarge and encourage thoſe Military Powers, who have put a ſtop to all deſigned In<g ref="char:EOLhyphen"/>ſults over us, either by <hi>French</hi> Power or Popiſh Deſigns; and, I doubt not, are of Courage, Diſpoſition and Affection to pre<g ref="char:EOLhyphen"/>ſerve the preſent King, with the Religion and Property of all his Dominions, both from Foreign Powers and Domeſtick E<g ref="char:EOLhyphen"/>nemies.</p>
+            <p>This I ſay becauſe I in part know, and am apt to believe more than I know, that many of Quality, great and good E<g ref="char:EOLhyphen"/>ſtates, have ventur'd Lives and Fortunes, rather for preſervation of the Conſtitution, and thoſe Laws that preſerve cur Religion and Property, than obtaining Self intereſt. Its apparent few have gain'd Advantage by theſe Wars; and it's now as clear to the World by the general Peace, that the major part of the
+<pb n="24" facs="tcp:39523:13"/>
+Confederacy entred into and maintained the War the beſt they could, rather upon the Conſideration of Property than Religion.</p>
+            <p>For we hear very little of any Article in the Peace concern<g ref="char:EOLhyphen"/>ing Religion, unleſs ſome mention of the <hi>Vaudois.</hi> But many in this Iſland have ventured their Perſons, and all of us our Money very freely, by Sea and Land, and the main of the Argument has been the Defence of Religion. For which I have heard ſeveral Officers declare themſelves ſuch Champions, that if the King ſhall think there is any Danger, they are ready to obey his Commands; yet if the Wiſdom of the Nation think it ſecure, they are willing to turn their Swords into Plow-ſhares. Theſe Diſpoſitions are to be eſteem'd and admired, and deſerve Encouragement by Honours and Rewards. It's much to be lamented Conquering time ſhould deprive the World of ſuch Men who have charged, and, as it were, bid Defiance to Death by their hazardous and fatiguing Voyages and Marches by Sea and Land, not regarding their own Safety in Sieges and Battles, whilſt the Honour and Preſervation of their own Country, with the Good and Safety of their Neighbours and Confede<g ref="char:EOLhyphen"/>rates, were in their thoughts: theſe Men are immortal, whoſe Fame may laſt long after they have yielded their Couragious Heads to the Summons of pale Death upon a ſoft Pillow. For it's doubtful whether they will be ſucceeded with the like Princi<g ref="char:EOLhyphen"/>ples after a long Peace. It is natural for couragious Men to love each other for ever after they have paſt through Difficul<g ref="char:EOLhyphen"/>ties and Dangers, eſpecially Officers and Souldiers their Com<g ref="char:EOLhyphen"/>manders and General; and more particularly after ſo long Ex<g ref="char:EOLhyphen"/>perience and Acquaintance for above ſeven years; in all which time we have not heard of a Mutiny or Deſertion in the Ar<g ref="char:EOLhyphen"/>my; which is a clear demonſtration of Affection to their Gene<g ref="char:EOLhyphen"/>ral, whoſe prudent Care and great Example, in Religion and Morals as well as Military Courage and Experience, without all doubt will keep the Army ſteady to him, tho he ſhould out<g ref="char:EOLhyphen"/>live moſt or all of his Veterane Souldiers.</p>
+            <p>The Inconvenience or Danger of a Standing Army in this Iſland, will be at the change of the Perſons at the Helm of the Government; for tho we have all the Aſſurances Man can wiſh for, that this King, who has preſerv'd our Conſtitution
+<pb n="25" facs="tcp:39523:13"/>
+from dangerous Attempts; and, it's not to be feared, will all his time eſtabliſh or amend our Laws. But the Doubt or Fear is, whether his Succeſſor or Succeſſors, having a mercenary Ar<g ref="char:EOLhyphen"/>my at their Command, may not alter the Conſtitution to their own Humour: or in caſe of a Minor, or weak King or Queen, unexperienced in Arms: or in caſe of Want of Pay for the Ar<g ref="char:EOLhyphen"/>my, may not the Army carve for themſelves, and ſet up whom they pleaſe: or in caſe of Competition, it's natural for them to adhere to thoſe who will pay them beſt and gratifie their Humours; ſeveral Inſtances we have of this kind in Hi<g ref="char:EOLhyphen"/>ſtory. The <hi>Roman</hi> Hiſtories afford innumerable Inſtances of their Potentates and Generals coming to untimely Ends, by the Revolts Mutinies and Bribings of mercenary Men, when they had declined employing their Arms abroad, and fell into Ani<g ref="char:EOLhyphen"/>moſities and Contentions among themſelves, which has been more fatal to <hi>England</hi> than Foreign Enemies; nor did ever any Foreigner come here without Invitation: And as for our Ani<g ref="char:EOLhyphen"/>moſities, thoſe in the year 1641, were the Original of my Ruine.</p>
+            <p>Therefore, tho a Militia may not be ſo proper and effectual to make Inrodes into Foreign Countries as a conſtant diſciplin'd Army, and tho they may be look'd upon as Raw and Undiſci<g ref="char:EOLhyphen"/>plined, and Cowardiſe may be imputed to them; compar'd to thoſe whoſe Fortune and Buſineſs it is to be always in Agitation and Management, like a Trade; yet it's undeniable both the Conſtitution, the Government and Governours, and every in<g ref="char:EOLhyphen"/>dividual Man's Property is beſt ſecured by his own Eye and A<g ref="char:EOLhyphen"/>ctions, having his Eſtate and Family at the ſtake and in as much danger as his Perſon.</p>
+            <p>Theſe Conſiderations will unqueſtionably put every indivi<g ref="char:EOLhyphen"/>dual Man of Eſtate and Family upon ready and hearty En<g ref="char:EOLhyphen"/>deavours for making the Militia more uſeful, according to the Methods the Parliament ſhall think proper.</p>
+            <p>This was my weak Opinion in King <hi>James</hi>'s Parliament, when I was in the Army, and as near a Souldier of Fortune as any bo<g ref="char:EOLhyphen"/>dy, for that Pay was my chief Subſiſtance; and it's theſe princi<g ref="char:EOLhyphen"/>ples and Duty for the good of Friends and Relations, and the Preſervation of the Conſtitution, and alſo for an eſſential Good and Security to the Nobility and Gentry and others that have O<g ref="char:EOLhyphen"/>pulency
+<pb n="26" facs="tcp:39523:14"/>
+and a viſible Poſterity, which may put every one upon rational Means and Methods for ſecuring themſelves to future Generations, rather than any Ends of my own: for I am as free and fit as any Man to repeat the Old Saying, <hi>Nec habeo, nec careo, nec curo.</hi> For my Time is ſo far ſpent in this World, the Appetites for it are near wearing out, and the Eſtate near being crum<g ref="char:EOLhyphen"/>bled to pieces by long and various Turmoils; nor have I Poſterity to take care for, if my Family or Eſtate were material, all which being decay'd rather through Duty and Principles in my Father than prodigality; therefore I may more plainly expreſs what I hope may be for the Safety and Joy of future Times and Generations; Which that your Lordſhips and your Poſterity may enjoy, are the hearty Wiſhes of</p>
+            <closer>
+               <signed>Your Lordſhip's moſt Humble Servant at Command, THO. ORME,</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:39523:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
